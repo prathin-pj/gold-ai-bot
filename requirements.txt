@@ -1,0 +1,5 @@
+MetaTrader5
+numpy
+scikit-learn
+requests
+pandas
